@@ -7,20 +7,31 @@
   } */
    
   .main {
-    padding-top: 50px;
+    padding-top: 30px;
     overflow: auto;
-    
     
   }
 
-  ul {
+  .index {
     color: #000000;
     padding: 1em;
     border-top: #aaa solid 1px;
     border-bottom: #aaa solid 1px;
   }
   
-  ul li {
+  .index {
+    line-height: 1.5;
+    padding: 0.5em;
+  }
+
+
+  .chapter {
+    color: #000000;
+    padding: 1em;
+    border-bottom: #aaa solid 1px;
+  }
+
+  .chapter {
     line-height: 1.5;
     padding: 0.5em;
   }
